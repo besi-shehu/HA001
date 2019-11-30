@@ -38,5 +38,5 @@ jar{
     version = '0.0.2'
     
 }
-apply plugin: 'java'
+
 
